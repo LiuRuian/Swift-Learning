@@ -121,7 +121,8 @@ if let value2 = Planet(rawValue: 9){
     
     }
 }else{
-        println("没有值")  // 打印: 没有值
+    
+    println("没有值")  // 打印: 没有值
 }
 
 
